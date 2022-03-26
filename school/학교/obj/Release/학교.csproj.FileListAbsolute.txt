@@ -1,0 +1,14 @@
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\bin\Release\학교.exe.config
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\bin\Release\학교.exe
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\bin\Release\학교.pdb
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교._1학년.resources
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교._2학년.resources
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교._3학년.resources
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교._4학년.resources
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교.Form1.resources
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교.Properties.Resources.resources
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교.csproj.GenerateResource.cache
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교.csproj.CoreCompileInputs.cache
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교.exe
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교.pdb
+C:\Users\qkqkt\Desktop\vs.test파일\학교\학교\obj\Release\학교.csprojAssemblyReference.cache

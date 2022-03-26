@@ -1,0 +1,10 @@
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\bin\Debug\calculrate.exe.config
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\bin\Debug\calculrate.exe
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\bin\Debug\calculrate.pdb
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\obj\Debug\calculrate.Form1.resources
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\obj\Debug\calculrate.Properties.Resources.resources
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\obj\Debug\calculrate.csproj.GenerateResource.cache
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\obj\Debug\calculrate.csproj.CoreCompileInputs.cache
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\obj\Debug\calculrate.exe
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\obj\Debug\calculrate.pdb
+C:\Users\qkqkt\Desktop\vs.test파일\calculrate\calculrate\obj\Debug\calculrate.csprojAssemblyReference.cache

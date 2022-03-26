@@ -1,0 +1,10 @@
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\bin\Debug\골드문정산.exe.config
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\bin\Debug\골드문정산.exe
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\bin\Debug\골드문정산.pdb
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\obj\Debug\test3.csprojAssemblyReference.cache
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\obj\Debug\test3.정산프로그램.resources
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\obj\Debug\골드문정산.Properties.Resources.resources
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\obj\Debug\test3.csproj.GenerateResource.cache
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\obj\Debug\골드문정산.exe
+C:\Users\qkqkt\Desktop\vs.test파일\test3\test3\obj\Debug\골드문정산.pdb

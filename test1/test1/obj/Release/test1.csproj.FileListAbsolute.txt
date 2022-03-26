@@ -1,0 +1,10 @@
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\bin\Release\카지노.exe.config
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\bin\Release\카지노.exe
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\bin\Release\카지노.pdb
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\obj\Release\test1.Form1.resources
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\obj\Release\카지노.Properties.Resources.resources
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\obj\Release\test1.csproj.GenerateResource.cache
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\obj\Release\test1.csproj.CoreCompileInputs.cache
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\obj\Release\카지노.exe
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\obj\Release\카지노.pdb
+C:\Users\qkqkt\Desktop\vs.test파일\test1\test1\obj\Release\test1.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\bin\Debug\helper.exe.config
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\bin\Debug\helper.exe
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\bin\Debug\helper.pdb
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.fisher.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.Form1.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.kmeans.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.PCA.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.Properties.Resources.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.SOM.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.SVM.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.공분산.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.마할라노비스.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.베이시언.resources
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.csproj.GenerateResource.cache
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.csproj.CoreCompileInputs.cache
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.exe
+C:\Users\qkqkt\Desktop\vs.test파일\helper\helper\obj\Debug\helper.pdb

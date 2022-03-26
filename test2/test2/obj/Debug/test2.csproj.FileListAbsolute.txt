@@ -1,0 +1,9 @@
+C:\Users\qkqkt\Desktop\vs.test파일\test2\test2\bin\Debug\골드문방탄계산기.exe.config
+C:\Users\qkqkt\Desktop\vs.test파일\test2\test2\bin\Debug\골드문방탄계산기.exe
+C:\Users\qkqkt\Desktop\vs.test파일\test2\test2\bin\Debug\골드문방탄계산기.pdb
+C:\Users\qkqkt\Desktop\vs.test파일\test2\test2\obj\Debug\test2.골드문방탄계산기.resources
+C:\Users\qkqkt\Desktop\vs.test파일\test2\test2\obj\Debug\골드문방탄계산기.Properties.Resources.resources
+C:\Users\qkqkt\Desktop\vs.test파일\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\qkqkt\Desktop\vs.test파일\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\qkqkt\Desktop\vs.test파일\test2\test2\obj\Debug\골드문방탄계산기.exe
+C:\Users\qkqkt\Desktop\vs.test파일\test2\test2\obj\Debug\골드문방탄계산기.pdb
